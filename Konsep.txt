@@ -1,0 +1,35 @@
+WEB Freelancer
+1. Login
+a. Lupa password
+b. Daftar
+c. Login dengan
+2. Tampilan Halaman
+a. Cari pekerjaan
+b. Membuat pekerjaan
+4. Tampilan akun
+a. Info pekerjaan baru
+b. Notifikasi
+c. Pesan
+5. Pencarian jenis pekerjaan
+6. Penambahan penawaran pekerjaan
+7. Info pekerjaan yang dilakukan
+8. Dasboard
+
+design
+1. web awal
+2. login
+3. akun
+4. notifikasi
+5. pesan
+6. pencarian
+7. pekerjaan
+8. dasboard
+9. logout
+
+code editor
+1. vsc
+2. php
+3. css
+4. html
+5. sql
+6. java scrip
